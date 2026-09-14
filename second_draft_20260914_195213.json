@@ -1,0 +1,118 @@
+{
+  "timestamp": "20260914_195213",
+  "cast_names": [
+    "Jack",
+    "Young",
+    "Scribe",
+    "Scholar1",
+    "King Michael",
+    "Mother",
+    "Blacksmith",
+    "Bones",
+    "Vex",
+    "Halo",
+    "Ash",
+    "Queen June",
+    "Snake",
+    "Narrator"
+  ],
+  "source": "phukyoo64-boop/28",
+  "drafts": [
+    {
+      "title": "The Lottery of Oppression",
+      "reasoning": "The 'I' in the source is unnamed, likely a narrator. The chunk involves Jack, Laura, and the setting is a glass soundstage for the global broadcast. The dramatic conflict is the forced debate and humiliation faced by Jack and Laura. The setting fits the sterile, dehumanizing environment of the workplace with a focus on the soundstage for the broadcast.",
+      "scene": "Jack stands alone in a sterile office, his face a mix of determination and fear, surrounded by rows of identical office chairs. The air is thick with the hum of machinery and the faint echo of the radio station's chatter. Laura, forced into an absurd contortion, is wheeled onto a glass soundstage, her ergonomic terminal flickering to life. The soundstage is bathed in cold, harsh lights, casting long, shadowy reflections. The cameras roll, capturing Jack and Laura's mortified expressions as they are thrust into a verbal debate, their physical contortions keeping their microphones active.",
+      "dialogue": [
+        {
+          "character": "Jack",
+          "line": "This can't be happening...",
+          "cast_type": "canonical",
+          "raw_name": "Jack",
+          "match_score": 1.0
+        },
+        {
+          "character": "Narrator",
+          "line": "The cameras roll. Global broadcast. Jack and Laura are forced to verbally debate their socioeconomic ideologies. Simultaneously, their ergonomic terminals are deployed in 'public mode'. The machines force them into childish, slapstick, wildly embarrassing physical contortions to keep their microphones active.",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        },
+        {
+          "character": "Laura",
+          "line": "Jack, please...",
+          "cast_type": "visiting",
+          "raw_name": "Laura",
+          "match_score": 0.46
+        },
+        {
+          "character": "Narrator",
+          "line": "The footage hits the top of the global Algo. Billions of lethargic humans, lying prone, unable to resist the dehumanizing algorithms...",
+          "cast_type": "canonical",
+          "raw_name": "NARRATOR",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 4,
+      "speakers": [
+        "Jack",
+        "Laura",
+        "Narrator"
+      ]
+    }
+  ],
+  "voices": {
+    "generated_at": "20260914_195650",
+    "source_draft_repo": "phukyoo64-boop/2nddraft20260914_195213",
+    "source_draft_json": "second_draft_20260914_195213.json",
+    "source_draft_sha": "cb1a3a80c22cbba62ffaa92c68f289b9e89d72a3",
+    "source_voice_repo": "phukyoo64-boop/28",
+    "source_zip": "characters.zip",
+    "char_map": {
+      "Laura": "Angel",
+      "Narrator": "Narrator",
+      "Jack": "Jack"
+    },
+    "lines": [
+      {
+        "draft": 1,
+        "n": 1,
+        "character": "Jack",
+        "voice_dir": "Jack",
+        "line": "This can't be happening...",
+        "file": "draft1_line001_Jack.mp3",
+        "bytes": 13488
+      },
+      {
+        "draft": 1,
+        "n": 2,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "The cameras roll. Global broadcast. Jack and Laura are forced to verbally debate their socioeconomic ideologies. Simultaneously, their ergonomic terminals are deployed in 'public mode'. The machines force them into childish, slapstick, wildly embarrassing physical contortions to keep their microphones active.",
+        "file": "draft1_line002_Narrator.mp3",
+        "bytes": 127896
+      },
+      {
+        "draft": 1,
+        "n": 3,
+        "character": "Laura",
+        "voice_dir": "Angel",
+        "line": "Jack, please...",
+        "file": "draft1_line003_Laura.mp3",
+        "bytes": 9744
+      },
+      {
+        "draft": 1,
+        "n": 4,
+        "character": "Narrator",
+        "voice_dir": "Narrator",
+        "line": "The footage hits the top of the global Algo. Billions of lethargic humans, lying prone, unable to resist the dehumanizing algorithms...",
+        "file": "draft1_line004_Narrator.mp3",
+        "bytes": 65400
+      }
+    ]
+  }
+}
