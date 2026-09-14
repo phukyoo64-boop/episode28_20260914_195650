@@ -113,6 +113,10 @@
         "file": "draft1_line004_Narrator.mp3",
         "bytes": 65400
       }
-    ]
+    ],
+    "video": {
+      "1": "draft1_combined.mp4"
+    },
+    "video_all": "am28.mp4"
   }
 }
